@@ -1,2 +1,4 @@
 # Mockup-to-Article
-Article [Here](https://cdn.rawgit.com/ITReema/Mockup-to-Article/8d478f10/index.html)
+
+Practice HTML syntax by converting a mockup of a blog article into a real website!
+
